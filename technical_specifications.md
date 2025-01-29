@@ -3,8 +3,6 @@
 ## Abstract
 The **gwe** Streamlit application is a cutting-edge digital solution tailored for laboratory professionals, focusing on the effective management, analysis, and visualization of laboratory data. By streamlining data processes and providing robust visualization tools, this application aims to enhance productivity, accuracy, and decision-making abilities in laboratory environments. This document outlines the technical specifications required for the development and deployment of the application, ensuring a comprehensive understanding of its features, functionalities, and infrastructure needs.
 
-## 1. Application Purpose
-The **gwe** Streamlit application is designed to serve as a centralized platform for laboratory professionals, enabling them to efficiently manage, analyze, and visualize laboratory data. By automating data processing tasks and offering intuitive visualization tools, the application enhances productivity and supports informed decision-making in laboratory operations.
 
 ## 2. Data Requirements
 
